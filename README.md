@@ -41,16 +41,16 @@ O design segue uma identidade visual inspirada no universo Pokémon, com cores v
 ## Capturas de Tela
 
 > **Login Page**  
-> ![image](https://github.com/user-attachments/assets/d9c37bfb-9b97-4678-8850-0e05e0b7b9bc)
+> ![image](https://github.com/user-attachments/assets/f0b9edd5-5a13-4433-972c-e60bfb237a60)
 
 > **Register Page**  
-> ![image](https://github.com/user-attachments/assets/9f71486c-0cef-4c5b-b0d2-a31887b7375a)
+> <img width="269" alt="Captura de Tela 2025-04-28 às 20 21 33" src="https://github.com/user-attachments/assets/0985d3aa-7201-4453-b983-cc7240e0153e" />
 
 > **Pokedex List**  
-> ![image](https://github.com/user-attachments/assets/8d8dae6e-de44-437a-b49f-ff665d709167)
+> ![image](https://github.com/user-attachments/assets/323c7719-217d-4ad9-8e7a-69a87d00ebfa)
 
 > **Pokemon Details**  
-> ![image](https://github.com/user-attachments/assets/96eb98ed-9555-4553-a2cf-7921da5cf6bf)
+> ![image](https://github.com/user-attachments/assets/e1bafa5b-7440-4f0c-b9ee-2c0075bd0188)
 
 ---
 
@@ -94,7 +94,8 @@ O design segue uma identidade visual inspirada no universo Pokémon, com cores v
 - Conta no [Firebase Console](https://console.firebase.google.com/)  
 - Conexão com internet para acesso à PokeAPI
 - Para que o projeto funcione, é necessário criar uma conta no firebase e mudar as linhas de codigo relacionadas a API.
-  ![image](https://github.com/user-attachments/assets/3a121c35-49aa-4e98-80cc-2b129ce1a23a)
+  <img width="455" alt="Captura de Tela 2025-04-28 às 20 39 20" src="https://github.com/user-attachments/assets/24349714-835e-4641-b9c0-79919df9aff4" />
+
 
 ---
 
