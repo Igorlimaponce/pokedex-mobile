@@ -44,13 +44,13 @@ O design segue uma identidade visual inspirada no universo Pokémon, com cores v
 > ![image](https://github.com/user-attachments/assets/f0b9edd5-5a13-4433-972c-e60bfb237a60)
 
 > **Register Page**  
-> <img width="269" alt="Captura de Tela 2025-04-28 às 20 21 33" src="https://github.com/user-attachments/assets/0985d3aa-7201-4453-b983-cc7240e0153e" />
+> ![image](https://github.com/user-attachments/assets/0985d3aa-7201-4453-b983-cc7240e0153e")
 
 > **Pokedex List**  
 > ![image](https://github.com/user-attachments/assets/323c7719-217d-4ad9-8e7a-69a87d00ebfa)
 
 > **Pokemon Details**  
-> ![image](https://github.com/user-attachments/assets/e1bafa5b-7440-4f0c-b9ee-2c0075bd0188)
+> ![image](https://github.com/user-attachments/assets/27b025eb-01f1-4b39-9699-586886218b99)
 
 ---
 
