@@ -44,7 +44,7 @@ O design segue uma identidade visual inspirada no universo Pokémon, com cores v
 > ![image](https://github.com/user-attachments/assets/f0b9edd5-5a13-4433-972c-e60bfb237a60)
 
 > **Register Page**  
-> ![image](https://github.com/user-attachments/assets/0985d3aa-7201-4453-b983-cc7240e0153e")
+> ![image](https://github.com/user-attachments/assets/0985d3aa-7201-4453-b983-cc7240e0153e)
 
 > **Pokedex List**  
 > ![image](https://github.com/user-attachments/assets/323c7719-217d-4ad9-8e7a-69a87d00ebfa)
